@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Creator: CorelDRAW Home & Student 2019 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="0.120004in" height="0.120004in" version="1.0" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 2.44 2.44"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:none}
+    .fil1 {fill:#40B948}
+    .fil2 {fill:#F88C37}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_715253232">
+   <rect class="fil0" x="0" y="0" width="2.44" height="2.44"/>
+   <g>
+    <g>
+     <rect class="fil1" x="0.97" y="0.89" width="0.49" height="0.62" rx="0.03" ry="0.1"/>
+     <rect class="fil1" x="0.23" y="0.59" width="0.49" height="0.91" rx="0.03" ry="0.15"/>
+     <rect class="fil1" x="1.72" y="0.27" width="0.49" height="1.24" rx="0.03" ry="0.2"/>
+    </g>
+    <path class="fil2" d="M1.17 2.14l-0.19 -0.29c-0.01,-0.02 -0.01,-0.04 -0,-0.06 0.01,-0.02 0.03,-0.03 0.05,-0.03l0.37 0c0.02,0 0.04,0.01 0.05,0.03 0.01,0.02 0.01,0.04 -0,0.06l-0.19 0.29c-0.01,0.02 -0.03,0.03 -0.05,0.03 -0.02,0 -0.04,-0.01 -0.05,-0.03z"/>
+   </g>
+  </g>
+ </g>
+</svg>
